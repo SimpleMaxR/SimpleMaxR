@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimpleMaxR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in sport, travel and Coding of course
+- 🌱 I’m currently learning Android development
+- 💞️ I’m looking to collaborate on anything
 - 📫 xxx@xxxxxx
 
 <!---
